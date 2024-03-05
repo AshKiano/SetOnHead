@@ -1,0 +1,9 @@
+name: SetOnHead
+version: '${project.version}'
+main: com.ashkiano.setonhead.SetOnHead
+api-version: '1.16'
+author: AshKiano
+commands:
+  setonhead:
+    description: Sets the item in your hand on your head.
+    usage: /<command>
